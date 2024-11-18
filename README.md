@@ -1,1 +1,3 @@
-# XAI_Voice
+# XAI_Voice  &nbsp; <span style="font-size:1.05rem">Explainable AI (XAI)</span>
+
+XAI_Voice focuses on analyzing customer voice data with transparency. Its goal is to provide insights into how AI systems arrive at their outputs, making these processes more transparent, interpretable, and accountable. It helps to build confidence in organizations that these systems are making fair and unbiased decisions.
